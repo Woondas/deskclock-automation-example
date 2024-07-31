@@ -1,0 +1,7 @@
+alarms:
+  - am_pm: "PM"
+    hour: 3
+    minute: 41
+  - am_pm: "AM"
+    hour: 6
+    minute: 32

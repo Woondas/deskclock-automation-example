@@ -1,0 +1,31 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore virtual environment
+.venv/
+
+
+# Ignore reports
+report.html
+report.xml
+
+# Ignore all the test results and cache
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore logs and other temporary files
+*.log
+*.tmp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db

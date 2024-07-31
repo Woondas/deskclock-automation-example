@@ -1,0 +1,8 @@
+appium:
+  server: "http://localhost:4723"
+  platformName: "Android"
+  deviceName: "emulator-5554"
+  appPackage: "com.google.android.deskclock"
+  appActivity: "com.android.deskclock.DeskClock"  
+  automationName: "UiAutomator2"
+  appium_server_logging: false
